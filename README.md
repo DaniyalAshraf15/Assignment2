@@ -1,2 +1,2 @@
 # Assignment2
- It has Javascriptc lasses
+ It has Javascript classes
